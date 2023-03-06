@@ -2,12 +2,12 @@
 chatgpt api网页端开源合集(整理别人的开源合集）
 的
 排名不分先后
-第一个：接近官网网页ui风格https://github.com/Chanzhaoyu/chatgpt-web
+第一个：接近官网网页ui风格项目地址：https://github.com/Chanzhaoyu/chatgpt-web
 
 
 
 第二个：私有化web程序
-https://github.com/869413421/chatgpt-web
+项目地址https://github.com/869413421/chatgpt-web
 功能简单介绍：
 请请求openai增加代理（防墙）
 
@@ -26,7 +26,7 @@ markdown 语言
 
 
 第三个：私有化web部署 这个可以看余额
-https://github.com/mic1on/chatGPT-web
+项目地址：https://github.com/mic1on/chatGPT-web
 
 功能如下：
 03-04：支持代理，环境变大HTTPS_PROXY，HTTPS_PROXY=http://127.0.0.1:7890如果不需要代理，可以不设置。
@@ -40,7 +40,7 @@ https://github.com/mic1on/chatGPT-web
 
 
 第四个：一个长的像苹果电脑软件的ui风格web
-https://github.com/slippersheepig/chatgpt-web
+项目地址：https://github.com/slippersheepig/chatgpt-web
 功能简介：
 2023.3.3-2 十分感谢minguncle提交交流公关，现支持按回车发送问题请求，按shift+回车可换行输入文本
 
@@ -58,7 +58,39 @@ https://github.com/slippersheepig/chatgpt-web
 
 
 第五个：带有前端后端的一个开源项目
-https://github.com/yi-ge/chatgpt-api
+项目地址：https://github.com/yi-ge/chatgpt-api
 
-暂时更到这里，太晚了睡了，希望各位能给个star让我也感受一下被点赞的感觉，后续还会更，谢谢了
+
+
+
+第六个：
+项目地址：
+https://github.com/GaiZhenbiao/ChuanhuChatGPT
+功能简介：
+像官方客户那样支持实时显示回复！
+
+重试对话，让ChatGPT再回复一次。
+
+优化Tokens，减少Tokens使用，以支持更长的对话。
+
+设置系统提示，有有效地设置前设置条件
+
+保存/加载对话历史记录
+
+在图形界面中添加API密钥
+
+
+
+第七个：新手容易上手部署，几乎零成本
+项目地址：https://github.com/ourongxing/chatgpt-vercel
+功能简介：
+部署一个你自己的（免费）
+
+本项目主要面向中文用户，所以用中文，原版是英文的。
+
+如果你只需要部署一个你自己用的网站，而不需要定制，那么你完全不需要在本地跑起来，你可以直接点击下面的按钮，然后按照提示操作即可。 Vercel 域名已经被墙，所以你需要绑定自己的域名才行。
+
+
+
+暂时更到这里，太晚了睡了，希望各位能给个star让我也感受一下被点赞的感觉，后续还会更，谢谢了，想要star，真的，哈哈整理不易，未完待续，欢迎补充
 
